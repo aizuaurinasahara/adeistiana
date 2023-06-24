@@ -1,0 +1,85 @@
+{
+    "arabica": [
+        {
+            "foto": "https://look-what-i-made.com/wp-content/uploads/Refreshing-coffee-orange-mocktail-recipe-look-what-i-made_1-1280x768.jpg",
+            "nama": "Kopi Based Moctail",
+            "size": "1 Cup",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://awsimages.detik.net.id/community/media/visual/2023/01/18/fakta-biji-kopi-toraja-1.jpeg?w=1200",
+            "nama": "Kopi Toraja",
+            "size": "1 Cup",
+            "harga": "18.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Expresso",
+            "size": "1 Cup",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://aksaraintimes.id/wp-content/uploads/2022/02/Kesegaran-es-kopi-susu-gula-aren-kekinian.jpg",
+            "nama": "Kopi Susu Gula Aren",
+            "size": "1 Cup",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0mgg_Sdppc-IRbLL3MPBftQTqIt-lNGbYaQ&usqp=CAU",
+            "nama": "Arabica Flores",
+            "size": "1 Cup",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        }
+
+    ],
+    "robusta": [
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEo8vLsxBXQTThwYKLxq4HuIbFojXtTAcyXg&usqp=CAU",
+            "nama": "Kopsus Robusta",
+            "size": "1 Cup",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8iZV4RsZeT6CYJz3GyxqzYQ49tnyyDNRZA&usqp=CAU",
+            "nama": "Cappucino",
+            "size": "1 Cup",
+            "harga": "17.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5nutHHW0Krf6EBJ9kb2xdCPX_c_qG0FgFA&usqp=CAU",
+            "nama": "Creamy Latte",
+            "size": "1 Cup",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "data:image/jpeg;base64,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",
+            "nama": "Macchiato",
+            "size": "1 Cup",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/03/kopi.png?fit=883%2C589&ssl=1",
+            "nama": "Ice Sweet Robusta Coffee",
+            "size": "1 Cup",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhft7hxVUipwcg42POe0sW3iXpn5SdB0liDA&usqp=CAU",
+            "nama": "Kopi Tubruk Original",
+            "size": "1 Cup",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+        
+    ]
+}
